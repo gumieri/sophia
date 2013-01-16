@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'sophia'
+require 'sophia/cli'
