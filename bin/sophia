@@ -1,4 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'sophia'
-require 'sophia/cli'
+require 'sophia/lexico'
+
+Sophia::Lexico.start
