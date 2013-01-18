@@ -1,6 +1,9 @@
 #!/usr/bin/env ruby
 
-require 'sophia'
-require 'sophia/lexico'
+require "sophia"
+require "sophia/ego"
+require "sophia/lexico"
+
+sophia = Sophia::Ego.new
 
 Sophia::Lexico.start
