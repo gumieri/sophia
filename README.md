@@ -19,21 +19,17 @@ these files are.
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'sophia'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
     $ gem install sophia
 
 ## Usage
 
-TODO: Write usage instructions here
+A list of commands can be listed by:
+
+    $ sophia
+
+or
+
+    $ sophia help
 
 ## Contributing
 
