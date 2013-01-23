@@ -8,7 +8,9 @@ describe Sophia::Lexico do
 
   it "say hello into terminal" do
     lexico = Sophia::Lexico.new
-    lexico.hi.downcase.should include 'hello'
+
+    message = capture(:stdout) { lexico.hi }
+    expect(message.downcase).to include 'hello'
   end
 
 end
