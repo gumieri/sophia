@@ -13,7 +13,7 @@ The Git is incredible, I realy like how it works and how we use (CLI) it.
 So I decided to make a way to organize my files (why only books?) in the same
 way who Git track files. Of course not controlling versions, git already does
 this very well. Sophia consists in add files to an index and mark them with tags
-for when you request to the lovely librarian Sophia for 'medieval fantasy
+for when you request to the lovely librarian Sophia for "medieval fantasy
 books", she can give you a list of your catalog and it is easy to identify where
 these files are.
 
