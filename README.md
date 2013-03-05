@@ -1,3 +1,7 @@
+[![Gem Version](https://badge.fury.io/rb/sophia.png)](https://rubygems.org/gems/sophia)
+[![Build Status](https://secure.travis-ci.org/gumieri/sophia.png?branch=master)](http://travis-ci.org/gumieri/sophia)
+[![Coverage Status](https://coveralls.io/repos/gumieri/sophia/badge.png?branch=master)](https://coveralls.io/r/gumieri/sophia)
+
 # Sophia
 
 This name comes from the ancient Greek (σοφίᾱ) and means wisdom, knowledge.
