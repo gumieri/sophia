@@ -3,6 +3,8 @@ $:.unshift File.expand_path('../../lib', __FILE__)
 require "rubygems"
 require "test/unit"
 require "rspec"
+require 'coveralls'
+Coveralls.wear!
 
 RSpec.configure do |config|
   config.before do
