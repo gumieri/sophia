@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'thor', github: 'wycats/thor', branch: 'master'
+gem 'thor'
 
 group :test, :development do
   gem 'factory_girl'
