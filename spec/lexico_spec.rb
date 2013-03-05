@@ -10,4 +10,8 @@ describe Sophia::Lexico do
     expect(message.downcase).to include 'hello'
   end
 
+  pending "start Sophia in current directory"
+
+  pending "check if current directory have Sophia"
+
 end
